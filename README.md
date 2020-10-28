@@ -12,6 +12,7 @@ DBot_Arg is a simple discord bot that returns the second arg programmed using Ja
 # Note
 
  1. Recommend NodeJS version is 12 or above.
+ 2. Open dbot_arg.js then find "Your discord token here" then replace it with your discord bot token.
 
 # Dependancies
 
